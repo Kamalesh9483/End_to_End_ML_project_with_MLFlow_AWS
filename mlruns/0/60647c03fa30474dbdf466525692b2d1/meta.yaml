@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/60647c03fa30474dbdf466525692b2d1/artifacts
+end_time: 1706468870618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60647c03fa30474dbdf466525692b2d1
+run_name: clumsy-skink-757
+run_uuid: 60647c03fa30474dbdf466525692b2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706468863909
+status: 3
+tags: []
+user_id: Kamalesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/8b748929acde4d9db51b1661880481ef/artifacts
+end_time: 1706469305286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b748929acde4d9db51b1661880481ef
+run_name: grandiose-shoat-381
+run_uuid: 8b748929acde4d9db51b1661880481ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706469299767
+status: 3
+tags: []
+user_id: Kamalesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/e671e9b37e3647b48f9deb04a9081a66/artifacts
+end_time: 1706467104678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e671e9b37e3647b48f9deb04a9081a66
+run_name: mercurial-lynx-108
+run_uuid: e671e9b37e3647b48f9deb04a9081a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706467097876
+status: 3
+tags: []
+user_id: Kamalesh

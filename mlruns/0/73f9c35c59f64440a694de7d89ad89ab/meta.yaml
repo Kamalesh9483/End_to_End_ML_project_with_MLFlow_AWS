@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/73f9c35c59f64440a694de7d89ad89ab/artifacts
+end_time: 1706468490404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73f9c35c59f64440a694de7d89ad89ab
+run_name: skillful-lark-846
+run_uuid: 73f9c35c59f64440a694de7d89ad89ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706468483685
+status: 3
+tags: []
+user_id: Kamalesh

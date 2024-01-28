@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/0d64669cf27b4a0c89ec74fe303b8fe9/artifacts
+end_time: 1706466981993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d64669cf27b4a0c89ec74fe303b8fe9
+run_name: orderly-grub-869
+run_uuid: 0d64669cf27b4a0c89ec74fe303b8fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706466974739
+status: 3
+tags: []
+user_id: Kamalesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/ab509ad4f7544fa2b0b5902d5126f84e/artifacts
+end_time: 1706473060809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab509ad4f7544fa2b0b5902d5126f84e
+run_name: wistful-newt-826
+run_uuid: ab509ad4f7544fa2b0b5902d5126f84e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706473053890
+status: 3
+tags: []
+user_id: Kamalesh

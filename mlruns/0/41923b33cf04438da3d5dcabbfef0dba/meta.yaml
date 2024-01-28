@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/41923b33cf04438da3d5dcabbfef0dba/artifacts
+end_time: 1706469971899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41923b33cf04438da3d5dcabbfef0dba
+run_name: marvelous-conch-994
+run_uuid: 41923b33cf04438da3d5dcabbfef0dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706469965813
+status: 3
+tags: []
+user_id: Kamalesh
