@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Prediction Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+    <nav class="navbar">
+        <!-- Your navigation content -->
+    </nav>
+
+    <header class="masthead">
+        <div class="container">
+            <h1>Wine Quality</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <h1>{{ prediction }}</h1>
+    </div>
+
+    <footer class="footer">
+        <!-- Your footer content -->
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

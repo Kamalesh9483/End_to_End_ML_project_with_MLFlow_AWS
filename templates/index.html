@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Wine Quality Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+    <nav class="navbar">
+        <!-- Your navigation content -->
+    </nav>
+
+    <header class="masthead">
+        <div class="container">
+            <h1>Wine Quality Prediction</h1>
+            <p>A Machine Learning-based Web App</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <form class="prediction-form" action="/predict" method="post">
+            <div class="form-row">
+                <label for="fixed_acidity">Fixed Acidity:</label>
+                <input type="text" name="fixed_acidity" id="fixed_acidity" class="input-text" placeholder="Enter Fixed Acidity" required>
+            </div>
+
+            <div class="form-row">
+                <label for="volatile_acidity">Volatile Acidity:</label>
+                <input type="text" name="volatile_acidity" id="volatile_acidity" class="input-text" placeholder="Enter Volatile Acidity" required>
+            </div>
+
+            <div class="form-row">
+                <label for="citric_acid">Citric Acid:</label>
+                <input type="text" name="citric_acid" id="citric_acid" class="input-text" placeholder="Enter Citric Acid" required>
+            </div>
+
+            <div class="form-row">
+                <label for="residual_sugar">Residual Sugar:</label>
+                <input type="text" name="residual_sugar" id="residual_sugar" class="input-text" placeholder="Enter Residual Sugar" required>
+            </div>
+
+            <div class="form-row">
+                <label for="chlorides">Chlorides:</label>
+                <input type="text" name="chlorides" id="chlorides" class="input-text" placeholder="Enter Chlorides" required>
+            </div>
+
+            <div class="form-row">
+                <label for="free_sulfur_dioxide">Free Sulfur Dioxide:</label>
+                <input type="text" name="free_sulfur_dioxide" id="free_sulfur_dioxide" class="input-text" placeholder="Enter Free Sulfur Dioxide" required>
+            </div>
+
+            <div class="form-row">
+                <label for="total_sulfur_dioxide">Total Sulfur Dioxide:</label>
+                <input type="text" name="total_sulfur_dioxide" id="total_sulfur_dioxide" class="input-text" placeholder="Enter Total Sulfur Dioxide" required>
+            </div>
+
+            <div class="form-row">
+                <label for="density">Density:</label>
+                <input type="text" name="density" id="density" class="input-text" placeholder="Enter Density" required>
+            </div>
+
+            <div class="form-row">
+                <label for="pH">pH:</label>
+                <input type="text" name="pH" id="pH" class="input-text" placeholder="Enter pH" required>
+            </div>
+
+            <div class="form-row">
+                <label for="sulphates">Sulphates:</label>
+                <input type="text" name="sulphates" id="sulphates" class="input-text" placeholder="Enter Sulphates" required>
+            </div>
+
+            <div class="form-row">
+                <label for="alcohol">Alcohol:</label>
+                <input type="text" name="alcohol" id="alcohol" class="input-text" placeholder="Enter Alcohol" required>
+            </div>
+
+            <div class="form-row">
+                <input type="submit" value="Predict" class="submit-button">
+            </div>
+        </form>
+    </div>
+
+    <footer class="footer">
+        <!-- Your footer content -->
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
