@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_ML_MLflow_AWS/End_to_End_ML_project_with_MLFlow_AWS/mlruns/0/08d0e23e875f480bac5e2e8eab9673d3/artifacts
+end_time: 1706630291450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08d0e23e875f480bac5e2e8eab9673d3
+run_name: overjoyed-flea-44
+run_uuid: 08d0e23e875f480bac5e2e8eab9673d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706630282432
+status: 3
+tags: []
+user_id: Kamalesh

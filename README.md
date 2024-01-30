@@ -28,3 +28,36 @@ python script.py
 3. Launch Your EC2 
 4. Pull Your image from ECR in EC2
 5. Lauch your docker image in EC2
+
+ECR:
+654654209574.dkr.ecr.eu-north-1.amazonaws.com/mlproj
+
+EC2 and Install docker in EC2 Machine:
+#optional
+
+sudo apt-get update -y
+
+sudo apt-get upgrade
+
+#required
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+sudo sh get-docker.sh
+
+sudo usermod -aG docker ubuntu
+
+newgrp docker
+
+
+Secret key:
+AWS_ACCESS_KEY_ID=
+
+AWS_SECRET_ACCESS_KEY=
+
+AWS_REGION = eu-north-1
+
+AWS_ECR_LOGIN_URI = demo>>  654654209574.dkr.ecr.eu-north-1.amazonaws.com/mlproj
+
+
+ECR_REPOSITORY_NAME = simple-app
