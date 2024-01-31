@@ -30,7 +30,7 @@ python script.py
 5. Lauch your docker image in EC2
 
 ECR:
-654654209574.dkr.ecr.eu-north-1.amazonaws.com/mlproj
+654654209574.dkr.ecr.us-east-1.amazonaws.com/mlproj
 
 EC2 and Install docker in EC2 Machine:
 #optional
@@ -55,9 +55,9 @@ AWS_ACCESS_KEY_ID=
 
 AWS_SECRET_ACCESS_KEY=
 
-AWS_REGION = eu-north-1
+AWS_REGION = us-east-1
 
-AWS_ECR_LOGIN_URI = demo>>  654654209574.dkr.ecr.eu-north-1.amazonaws.com/mlproj
+AWS_ECR_LOGIN_URI = demo>>  
 
 
 ECR_REPOSITORY_NAME = simple-app
