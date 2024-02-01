@@ -3,6 +3,7 @@ import os
 import numpy as np
 from mlProject.pipeline.prediction import PredictionPipeline
 
+
 app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
