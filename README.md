@@ -1,5 +1,7 @@
 # End_to_End_ML_project_with_MLFlow_AWS
 
+![demogif](https://github.com/Kamalesh9483/End_to_End_ML_project_with_MLFlow_AWS/assets/80197808/1e4f15de-8b1c-444d-88fa-70e450f5cec7)
+
 ## Workflows
 
 1. Update config.yaml
