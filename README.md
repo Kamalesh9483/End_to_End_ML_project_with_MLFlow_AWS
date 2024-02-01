@@ -1,5 +1,13 @@
 # End_to_End_ML_project_with_MLFlow_AWS
 
+## This project is an End to End implementation covering 
+ - MLOPS including logging, exception, config file, pipeline build (Data ingestion, Data Validation, Data transformation, model trainer, model evaluation)
+ - MLFLOW & Dagshub for experiments,
+ - Web Application build & REST API using Flask,
+ - Contanerization using Docker,
+ - CI/CD using GitHub actions,
+ - Deployment using AWS Elastic Container Registry (ECR) & AWS Elastic Compute Cloud (EC2)
+
 ![demogif](https://github.com/Kamalesh9483/End_to_End_ML_project_with_MLFlow_AWS/assets/80197808/1e4f15de-8b1c-444d-88fa-70e450f5cec7)
 
 ## Workflows
